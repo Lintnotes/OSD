@@ -21,3 +21,4 @@ Projects/*/obj/Debug/MainWindow.g.cs
 *.[Cc]ache
 # but keep track of directories ending in .cache
 !*.[Cc]ache/
+cloud/Iac/terraform/.infracost/terraform_modules/manifest.json
